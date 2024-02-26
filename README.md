@@ -1,4 +1,4 @@
-# Project Name: Mutual Authentication Demo
+Mutual Authentication PoC
 
 ## Overview
 
